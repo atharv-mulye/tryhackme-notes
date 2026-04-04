@@ -22,13 +22,11 @@ This path has been replaced by the expanded Pre Security Path, but it still serv
 
 ## 🧭 Modules
 
-| # | Module | Description |
-|---|--------|------------|
-| 1 | [🔐 Introduction to Cyber Security](Pre-Security%20%28Legacy%29/Module-1-Introduction%20to%20Cyber%20Security/) | Overview of cybersecurity and core concepts |
-| 2 | [🌐 Network Fundamentals](Pre-Security%20%28Legacy%29/Module-2-Network%20Fundamentals/) | Core networking concepts and how systems communicate |
-| 3 | [🌍 How The Web Works](Pre-Security%20%28Legacy%29/Module-3-How%20The%20Web%20Works/) | How websites, browsers, and HTTP work together |
-| 4 | [🐧 Linux Fundamentals](Pre-Security%20%28Legacy%29/Module-4-Linux%20Fundamentals/) | Linux commands, file system, and basic administration |
-| 5 | [🪟 Windows Fundamentals](Pre-Security%20%28Legacy%29/Module-5-Windows%20Fundamentals/) | Windows system basics, tools, and administration |
+| 1 | [🔰 Introduction to Cyber Security](./Module-1-Introduction%20to%20Cyber%20Security/) | Overview of cybersecurity |
+| 2 | [🌐 Network Fundamentals](./Module-2-Network%20Fundamentals/) | Core networking concepts |
+| 3 | [🌍 How The Web Works](./Module-3-How%20The%20Web%20Works/) | How websites work |
+| 4 | [🐧 Linux Fundamentals](./Module-4-Linux%20Fundamentals/) | Linux basics |
+| 5 | [🪟 Windows Fundamentals](./Module-5-Windows%20Fundamentals/) | Windows system basics |
 
 ---
 
