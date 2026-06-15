@@ -74,5 +74,5 @@ All techniques should only be used in legal and authorized environments.
 ## 🏆 Certificate
 
 <p align="center">
-  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b5c45055-af08-4c4b-99e0-390f869b9189" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/b5c45055-af08-4c4b-99e0-390f869b9189" />
 </p>
