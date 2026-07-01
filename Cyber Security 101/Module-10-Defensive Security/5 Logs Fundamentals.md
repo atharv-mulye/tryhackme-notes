@@ -1057,3 +1057,137 @@ The victim usually sees only the **last visible IP**, not the attacker's real IP
 - Investigators correlate logs from multiple systems (SIEM, EDR, firewalls, VPNs, DNS, etc.) to uncover attacks.
 - **IP spoofing is generally not useful for interactive logins** (SSH, RDP, HTTPS, VPN) because these protocols require two-way communication.
 - Attackers typically hide behind **VPNs, Tor, proxies, or compromised intermediary systems**, rather than relying on IP spoofing.
+
+---
+
+## Can We Identify the Human Attacker?
+
+## Short Answer
+
+**Usually, NO.**
+
+Logs generally **cannot identify the real human** behind an attack.
+
+Instead, they help investigators understand **how the attack happened**.
+
+---
+
+## What Can We Usually Determine?
+
+## 1. Entry Point (Initial Access) 
+
+How did the attacker first get into the environment?
+
+Examples:
+- Phishing email
+- Stolen credentials
+- VPN compromise
+- Exploited vulnerability
+- Weak password
+- Exposed RDP/SSH
+- Infected USB device
+
+---
+
+## 2. Attack Timeline 
+
+What happened and in what order?
+
+Example:
+
+```text
+02:00 - Phishing email received
+02:03 - Attachment opened
+02:04 - Malware executed
+02:05 - Reverse shell established
+02:08 - Privilege escalation
+02:12 - Administrator account compromised
+02:20 - Data exfiltration
+```
+
+---
+
+## 3. Attacker's Actions 
+
+What did the attacker do?
+
+Examples:
+- Created new users
+- Installed malware
+- Disabled Antivirus/Defender
+- Deleted backups
+- Stole sensitive files
+- Moved laterally
+- Cleared logs
+
+---
+
+## 4. Affected Systems 
+
+Which systems were compromised?
+
+Examples:
+- Employee workstation
+- Domain Controller
+- Database server
+- File server
+
+---
+
+## 5. Data Accessed or Stolen 
+
+Investigators can often determine:
+- Which files were opened
+- Which databases were accessed
+- Which data was downloaded
+- Amount of data transferred
+
+---
+
+## What Is Difficult to Determine?
+
+Logs usually **cannot directly tell us:**
+
+- Real human identity
+- Physical location
+- Nationality
+- Real IP address (if hidden using VPN/Tor/Proxy)
+
+Finding the real attacker often requires:
+- ISP cooperation
+- VPN provider logs
+- Cloud provider logs
+- Threat intelligence
+- Law enforcement investigation
+
+---
+
+## SOC Analyst vs Law Enforcement
+
+## SOC Analyst
+
+Focuses on:
+- How the attack happened
+- Entry point
+- Attack timeline
+- Scope of compromise
+- Containment
+- Recovery
+
+---
+
+## Law Enforcement
+
+Focuses on:
+- Who performed the attack
+- Collecting legal evidence
+- Attribution
+- Arresting the attacker
+
+---
+
+## Key Takeaway
+
+> **Logs usually identify the account, device, IP address, and attack path—not the real human.**
+
+Their primary purpose is to reconstruct the attack, identify the entry point, understand the attacker's actions, and help contain and recover from the incident.
