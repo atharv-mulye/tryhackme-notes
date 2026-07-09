@@ -28,7 +28,7 @@ It provides a comprehensive introduction to cybersecurity through hands-on labs,
 
 | # | Module | Description |
 |---|--------|------------|
-| 1 | [🚀 Start Your Cyber Security Journey](./Module-01-Introduction/) | Introduction to cybersecurity, offensive & defensive security, and search skills |
+| 1 | [🚀 Start Your Cyber Security Journey](./Module-01-Start%20Your%20Cyber%20Security%20Journey) | Introduction to cybersecurity, offensive & defensive security, and search skills |
 | 2 | [🐧 Linux Fundamentals](./Module-02-Linux%20Fundamentals/) | Learn Linux basics and command-line usage |
 | 3 | [🪟 Windows & AD Fundamentals](./Module-03-Windows%20and%20AD%20Fundamentals/) | Windows operating system and Active Directory fundamentals |
 | 4 | [💻 Command Line](./Module-04-Command%20Line/) | Windows CMD, PowerShell, and Linux Shell basics |
