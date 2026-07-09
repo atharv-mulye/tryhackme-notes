@@ -28,20 +28,20 @@ It provides a comprehensive introduction to cybersecurity through hands-on labs,
 
 | # | Module | Description |
 |---|--------|------------|
-| 1 | [🚀 Start Your Cyber Security Journey](./Section-1-Start-Your-Cyber-Security-Journey/) | Introduction to cybersecurity, offensive & defensive security, and search skills |
-| 2 | [🐧 Linux Fundamentals](./Section-2-Linux-Fundamentals/) | Learn Linux basics and command-line usage |
-| 3 | [🪟 Windows & AD Fundamentals](./Section-3-Windows-and-AD-Fundamentals/) | Windows operating system and Active Directory fundamentals |
-| 4 | [💻 Command Line](./Section-4-Command-Line/) | Windows CMD, PowerShell, and Linux Shell basics |
-| 5 | [🌐 Networking](./Section-5-Networking/) | Networking concepts, protocols, packet analysis, and scanning |
-| 6 | [🔐 Cryptography](./Section-6-Cryptography/) | Encryption, hashing, public key cryptography, and password cracking |
-| 7 | [💥 Exploitation Basics](./Section-7-Exploitation-Basics/) | Exploitation fundamentals and Metasploit Framework |
-| 8 | [🌍 Web Hacking](./Section-8-Web-Hacking/) | Web technologies, JavaScript, SQL, and Burp Suite |
-| 9 | [🛠️ Offensive Security Tooling](./Section-9-Offensive-Security-Tooling/) | Common offensive security tools and techniques |
-| 10 | [🛡️ Defensive Security](./Section-10-Defensive-Security/) | SOC, Digital Forensics, Incident Response, and Logs |
-| 11 | [🔒 Security Solutions](./Section-11-Security-Solutions/) | SIEM, Firewalls, IDS, and Vulnerability Scanners |
-| 12 | [⚙️ Defensive Security Tooling](./Section-12-Defensive-Security-Tooling/) | CyberChef, CAPA, REMnux, and FlareVM |
-| 13 | [🎓 Build Your Cyber Security Career](./Section-13-Build-Your-Cyber-Security-Career/) | Security principles, careers, and professional development |
-| 14 | [🕸️ OWASP Top 10 (2025)](./Section-14-OWASP-Top-10-2025/) | Modern web application security vulnerabilities |
+| 1 | [🚀 Start Your Cyber Security Journey](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-01-Introduction) | Introduction to cybersecurity, offensive & defensive security, and search skills |
+| 2 | [🐧 Linux Fundamentals](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-02-Linux%20Fundamentals) | Learn Linux basics and command-line usage |
+| 3 | [🪟 Windows & AD Fundamentals](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-03-Windows%20and%20AD%20Fundamentals) | Windows operating system and Active Directory fundamentals |
+| 4 | [💻 Command Line](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-04-Command%20Line) | Windows CMD, PowerShell, and Linux Shell basics |
+| 5 | [🌐 Networking](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-05-Networking) | Networking concepts, protocols, packet analysis, and scanning |
+| 6 | [🔐 Cryptography](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-06-Cryptography) | Encryption, hashing, public key cryptography, and password cracking |
+| 7 | [💥 Exploitation Basics](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-07-Exploitation%20Basics) | Exploitation fundamentals and Metasploit Framework |
+| 8 | [🌍 Web Hacking](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-08-Web%20Hacking) | Web technologies, JavaScript, SQL, and Burp Suite |
+| 9 | [🛠️ Offensive Security Tooling](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-09-Offensive%20Security%20Tooling) | Common offensive security tools and techniques |
+| 10 | [🛡️ Defensive Security](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-10-Defensive%20Security) | SOC, Digital Forensics, Incident Response, and Logs |
+| 11 | [🔒 Security Solutions](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-11-Security%20Solutions) | SIEM, Firewalls, IDS, and Vulnerability Scanners |
+| 12 | [⚙️ Defensive Security Tooling](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-12-Defensive%20Security%20Tooling) | CyberChef, CAPA, REMnux, and FlareVM |
+| 13 | [🎓 Build Your Cyber Security Career](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-13-Build%20Your%20Cyber%20Security%20Career) | Security principles, careers, and professional development |
+| 14 | [🕸️ OWASP Top 10 (2025)](https://github.com/atharv-mulye/tryhackme-notes/tree/main/Cyber%20Security%20101/Module-14-OWASP%20Top%2010%20(2025)) | Modern web application security vulnerabilities |
 
 ---
 
